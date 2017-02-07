@@ -1,4 +1,4 @@
 # Methamphetamine
 Heisenberg's standard
 
-https://github.com/imvamshi/Methamphetamine
+https://imvamshi.github.io/Methamphetamine
